@@ -84,3 +84,7 @@ footer {
   .hero img { width: 190px; height: 190px; }
   h1 { font-size: 26px; }
 }
+
+/* research descriptions + coauthors */
+.desc { font-size: 15.5px; color: #333; margin: 6px 0 0; }
+.coauth { font-weight: normal; font-size: 0.82em; color: var(--muted); white-space: nowrap; }
